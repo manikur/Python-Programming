@@ -1,2 +1,2 @@
 # R-programming
-I'm going to do coding.
+I'm an educator in AI and Big Data.
